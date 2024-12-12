@@ -1,7 +1,3 @@
-Voici le texte que vous avez fourni, remis en forme et clarifié pour une meilleure lisibilité.
-
----
-
 # Sujet : Je suis un étudiant qui manque de budget
 
 ## CHAPITRE 1
