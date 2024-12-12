@@ -40,19 +40,33 @@ Pour créer un cluster Kubernetes, tapez la commande suivante dans votre termina
 Un cluster est un réseau de machines qui communiquent entre elles pour faire fonctionner vos applications. Voici un exemple de retour après l'exécution de `minikube start` :
 
 >😄  minikube v1.34.0 sur Ubuntu 24.04
+
 >✨  Choix automatique du pilote docker
+
 >📌  Utilisation du pilote Docker avec le privilège root
+
 >👍  Démarrage du nœud "minikube" primary control-plane dans le cluster "minikube"
+
 >🚜  Extraction de l'image de base v0.0.45...
+
 >🔥  Création de docker container (CPU=2, Memory=3900Mo) ...
+
 >🐳  Préparation de Kubernetes v1.31.0 sur Docker 27.2.0...
+
 >    ▪ Génération des certificats et des clés
+
 >    ▪ Démarrage du plan de contrôle ...
+
 >    ▪ Configuration des règles RBAC ...
+
 >🔗  Configuration de bridge CNI (Container Networking Interface)...
+
 >🔎  Vérification des composants Kubernetes...
+
 >    ▪ Utilisation de l'image gcr.io/k8s-minikube/storage-provisioner:v5
+
 >🌟  Modules activés: default-storageclass, storage-provisioner
+
 >🏄  Terminé ! kubectl est maintenant configuré pour utiliser "minikube" cluster et espace de noms "default" par défaut.
 
 ---
